@@ -3,8 +3,11 @@ my name is odai sadaqa, 29 old years. I finished bachelor of software engineerin
 
 
 ## Table of content
+
 |name|link|
-|----|----|
+|----:|:----|
 |Read01|[read01](https://odai-sadaqa.github.io/reading-notes/read01)|
-|Read02|[read02]()
-|Read03|[read03]()
+|Read02|[read02](https://odai-sadaqa.github.io/reading-notes/read02)|
+|grothmindset|[groth](https://odai-sadaqa.github.io/reading-notes/grothmindset)|
+
+
