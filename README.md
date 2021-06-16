@@ -9,5 +9,6 @@ my name is odai sadaqa, 29 old years. I finished bachelor of software engineerin
 |Read01|[read01](https://odai-sadaqa.github.io/reading-notes/read01)|
 |Read02|[read02](https://odai-sadaqa.github.io/reading-notes/read02)|
 |grothmindset|[groth](https://odai-sadaqa.github.io/reading-notes/grothmindset)|
-|read03|[read03]()
+|read03|[read03](https://odai-sadaqa.github.io/reading-notes/read03)
+|read04|[read04](https://odai-sadaqa.github.io/reading-notes/read04)
 
