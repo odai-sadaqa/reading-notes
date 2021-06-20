@@ -13,6 +13,5 @@ my name is odai sadaqa, 29 old years. I finished bachelor of software engineerin
 |read04|[read04](https://odai-sadaqa.github.io/reading-notes/read04)
 |read05|[read05](https://odai-sadaqa.github.io/reading-notes/read05)
 |read06|[read06](https://odai-sadaqa.github.io/reading-notes/read06)
-
-
+|read07|[read07](https://odai-sadaqa.github.io/reading-notes/read07)
 
