@@ -64,7 +64,7 @@ The ```<dl>``` tag defines the description list, the ```<dt>``` tag defines the 
 
 The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content. The image below illustrates the box model:
 
-![img2](https://th.bing.com/th/id/R.12876a3bab347d0d07b4384ca35ecb83?rik=iRG1Bd7H7oxX1w&pid=ImgRaw)
+![img3](https://th.bing.com/th/id/R.12876a3bab347d0d07b4384ca35ecb83?rik=iRG1Bd7H7oxX1w&pid=ImgRaw)
 
 #### Explanation of the different parts:
 

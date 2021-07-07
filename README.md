@@ -2,6 +2,23 @@
 my name is odai sadaqa, 29 old years. I finished bachelor of software engineering, and then finished master degree on computer science.
 
 
+
+# Description Reading Notes
+***This site describes all the lectures and lessons that were covered in this course, in order to be a reference for us when we need it. It contains summaries of the most important points.***
+
+### class 01 :
+  - it is descripe the structure of HTML pages, Layout of content in HTML pages with extra Markup language and small intro to java script.
+
+### class 02:
+  - it is descripe the text formating in HTML, and introduction of CSS and loop in java script.
+
+### class 03: 
+  - it is descripe the HTML lists with attribtes and types, Control with java script, also we talk about CSS box Model
+### class 04:
+  - it is descripe the HTML links with ```<a>``` tags and ```href``` attribute, also we talk about java script function and in the end we discusses the layout on CSS
+
+
+
 ## Table of content for cod 102
 
 |name|link|
