@@ -1,3 +1,20 @@
+#### Understanding The Problem Domain Is The Hardest Part Of Programming
+What is the hardest thing about writing code?
+
+There are many common answers to this question:
+Learning a new technology
+Naming things
+Testing your code
+Debugging
+Fixing bugs
+
+
+**If understanding the problem domain is the hardest part of programming and you want to make programming easier, you can do one of two things:**
+
+1. Make the problem domain easier
+2. Get better at understanding the problem domain
+
+
 ## JavaScript Objects
 
 ***In real life, a car is an object.*** 
