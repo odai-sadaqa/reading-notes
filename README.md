@@ -16,6 +16,10 @@ my name is odai sadaqa, 29 old years. I finished bachelor of software engineerin
   - it is descripe the HTML lists with attribtes and types, Control with java script, also we talk about CSS box Model
 ### class 04:
   - it is descripe the HTML links with ```<a>``` tags and ```href``` attribute, also we talk about java script function and in the end we discusses the layout on CSS
+### class 05:
+   - it is descripe Html images , test and color
+### class 06:
+  - it is descripe Object and Method in JavaScript
 
 
 
