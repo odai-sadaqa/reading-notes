@@ -21,6 +21,12 @@ my name is odai sadaqa, 29 old years. I finished bachelor of software engineerin
 ### class 06:
   - it is descripe Object and Method in JavaScript
 
+### class 07:
+  - it descripe how to create a table in HTML, review of Function ,method and object in javascript
+
+### class 08:
+  - it descripe css layout
+
 
 
 ## Table of content for cod 102
