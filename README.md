@@ -31,6 +31,8 @@ my name is odai sadaqa, 29 old years. I finished bachelor of software engineerin
   - it descripe HTML form, list and Javascript Event.
 
 
+### class 10:
+   - it describe Error handelling and Debugging
 
 ## Table of content for cod 102
 
