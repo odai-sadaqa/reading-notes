@@ -84,3 +84,16 @@ OGG	>>>>audio/ogg
 WAV	>>>>audio/wav
 ```
 
+
+Flash
+Flash is a very popular technology used to add animations, video, and audio to websites.
+ - The most popular way of adding Flash into a web page is using JavaScript. There are several scripts that allow you to do this without an in-depth understanding of the JavaScript language. The script we will be looking at here is called SWFObject.
+
+1. The SWFObject script is hosted on Google's servers. We include the script in this web page using the first of the two script elements.
+2. The type attribute is used on the script element to indicate that the script inside is written in JavaScript. The src attribute tells the browser where to find the script.
+3. The second script element is used to tell the browser about the Flash movie, as well as which element it should replace. This element is actually telling the SWFObject script five pieces of information, which are in the brackets:
+4. The location of the .swf file: flash/bird.swf
+5. The element that the Flash movie should replace, specified by the value of the id attribute on theelement: bird
+6. The width of the Flash movie: 400 px
+7. The height of the Flash movie: 300 px
+8. The minimum version of the Flash player needed to view the movie: Flash Player 8
