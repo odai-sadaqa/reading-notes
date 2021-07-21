@@ -38,6 +38,9 @@ WebM	        video/webm
 Ogg	          video/ogg
 ```
 
+
+![img4](https://th.bing.com/th/id/R.1fe1dd6cf059041b7a8ec1c32f9b8cf3?rik=zoyG%2bYBmKSSzQw&riu=http%3a%2f%2fstatic.freemake.com%2fblog%2fwp-content%2fuploads%2f2015%2f06%2fHTML5-video-tag-sample-code.png&ehk=OWRr6QB7Q8zOr6U3UtRiLJEFS1RP%2b2dSgUw9WUhWcCk%3d&risl=&pid=ImgRaw)
+
 # HTML Audio
   - The HTML ```<audio>``` element is used to play an audio file on a web page.
 
